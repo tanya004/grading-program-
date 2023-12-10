@@ -1,5 +1,3 @@
-
-
 from random import randint
 
 EASY_LEVEL = 10
